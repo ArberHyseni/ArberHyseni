@@ -5,7 +5,7 @@ Software Engineer at dua.com
 ----------------------------
 
 * 🌍  I'm based in Pristina, Kosovo
-* ✉️  You can contact me at [arberhy@outlook.com](mailto:arberhy@outlook.com)
+* ✉️  You can contact me at [arber.hyseni1999@outlook.com](mailto:arber.hyseni1999@outlook.com)
 * 🚀  I'm currently working at [dua.com](http://dua.com)
 * 🧠  Lately I've been focusing on AWS, event-driven design, scalable systems, distributed systems, high availability systems, serverless frameworks and microservices
 
