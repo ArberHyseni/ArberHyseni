@@ -6,8 +6,8 @@ Software Engineer at dua.com
 
 * 🌍  I'm based in Pristina, Kosovo
 * ✉️  You can contact me at [arberhy@outlook.com](mailto:arberhy@outlook.com)
-* 🚀  I'm currently working on [dua.com](http://dua.com)
-* 🧠  I'm learning AWS, event-driven design, scalable systems, distributed systems, high availability systems
+* 🚀  I'm currently working at [dua.com](http://dua.com)
+* 🧠  Lately I've been focusing on AWS, event-driven design, scalable systems, distributed systems, high availability systems, serverless frameworks and microservices
 
 ### Skills
 
