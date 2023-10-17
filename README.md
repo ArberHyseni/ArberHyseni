@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer at dua.com
 ----------------------------
 
-* 🌍  I'm based in Pristina, Kosovo
+* 🌍  I'm based in Basel, Swtizerland
 * ✉️  You can contact me at [arber.hyseni1999@outlook.com](mailto:arber.hyseni1999@outlook.com)
-* 🚀  I'm currently working at [dua.com](http://dua.com)
+* 🚀  I'm currently working at [FreshFX](https://www.freshfx.at)
 * 🧠  Lately I've been focusing on AWS, event-driven design, scalable systems, distributed systems, high availability systems, serverless frameworks and microservices
 
 ### Skills
